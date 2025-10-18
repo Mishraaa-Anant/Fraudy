@@ -2,4 +2,4 @@ streamlit==1.30.0
 pandas
 numpy
 pydantic==2.6.1
-pydantic-core==2.6.1
+# pydantic-core ko manually mat specify karo
