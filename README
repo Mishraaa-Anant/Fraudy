@@ -1,0 +1,6 @@
+# To start the Project
+uvicorn main:app --reload
+
+# To also start the project
+env\Scripts\activate
+ahids_env\\Scripts\\activate 
