@@ -1,5 +1,7 @@
 streamlit==1.30.0
 pandas
 numpy
-pydantic==2.6.1
+pydantic==2.5.2
+# remove explicit pydantic-core
+
 # pydantic-core ko manually mat specify karo
