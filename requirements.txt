@@ -1,7 +1,10 @@
 streamlit==1.30.0
 pandas
 numpy
+streamlit==1.30.0
+pandas
+numpy
 pydantic==2.5.2
-# remove explicit pydantic-core
+pydantic-core==2.14.5
 
-# pydantic-core ko manually mat specify karo
+
